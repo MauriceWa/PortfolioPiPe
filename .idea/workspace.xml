@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e96f623a-6e84-4946-a98a-29ae59b9af08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Images/StyleguideGroep.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/gantt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Gantt.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Styleguide_Molotov.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/gantt-chart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="e96f623a-6e84-4946-a98a-29ae59b9af08" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +68,7 @@
       <workItem from="1705521022513" duration="1343000" />
       <workItem from="1705522593916" duration="99000" />
       <workItem from="1705961601251" duration="1003000" />
-      <workItem from="1706029525143" duration="837000" />
+      <workItem from="1706029525143" duration="1286000" />
     </task>
     <servers />
   </component>
