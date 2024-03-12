@@ -40,6 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Kees/Documents/GitHub/extensionPiPe&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -78,6 +79,8 @@
       <workItem from="1706220618226" duration="601000" />
       <workItem from="1706648258448" duration="597000" />
       <workItem from="1706650182803" duration="2000" />
+      <workItem from="1708599968540" duration="673000" />
+      <workItem from="1708685864475" duration="47000" />
     </task>
     <servers />
   </component>
